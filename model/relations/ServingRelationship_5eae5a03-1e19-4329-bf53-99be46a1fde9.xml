@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(c)"
+    id="5eae5a03-1e19-4329-bf53-99be46a1fde9"
+    documentation="3D data">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e71ca760-8e66-4871-8425-7a31bc2dda73.xml#e71ca760-8e66-4871-8425-7a31bc2dda73"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e60b748d-0abb-4698-b1c2-120722cc45ec.xml#e60b748d-0abb-4698-b1c2-120722cc45ec"/>
+</archimate:ServingRelationship>

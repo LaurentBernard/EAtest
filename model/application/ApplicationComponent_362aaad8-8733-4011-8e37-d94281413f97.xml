@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(excel) Léo Tool"
+    id="362aaad8-8733-4011-8e37-d94281413f97"
+    documentation="This tool is an obsolescence dashboard&#xD;&#xA;It was developed by a young guy in procurement and accesses to many internal databases&#xD;&#xA;It enables to retrieve many data:&#xD;&#xA;-photos&#xD;&#xA;-part info&#xD;&#xA;-stock, average consumption&#xD;&#xA;-obsolescence information&#xD;&#xA;-decisions per program&#xD;&#xA;-list of ongoing ECP&#xD;&#xA;&#xD;&#xA;The tool calculates an obsolescence KPI with the seriousness of the impact in y while the programs are in x (sorted by EIS)&#xD;&#xA;"/>

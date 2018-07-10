@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(c)"
+    id="b78a9d6f-75bd-40a3-b38b-792f209ee3d0"
+    documentation="AsSold&#x9;SAP&#x9;ECPDM&#x9;Shared Directory&#xD;&#xA;ControlM&#x9;On demand&#x9;AsSold Customer Sheet is written by SAP in a shared directory, TIBCO analyzed its content before moving Customer Sheet in a directory read once a day by ECPDM.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bc9fcd57-ed18-4fc1-aae8-6bbd7cf11691.xml#bc9fcd57-ed18-4fc1-aae8-6bbd7cf11691"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e71ca760-8e66-4871-8425-7a31bc2dda73.xml#e71ca760-8e66-4871-8425-7a31bc2dda73"/>
+</archimate:TriggeringRelationship>

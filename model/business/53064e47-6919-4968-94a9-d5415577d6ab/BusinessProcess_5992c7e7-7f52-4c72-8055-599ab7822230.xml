@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2) Manage stock impacts"
+    id="5992c7e7-7f52-4c72-8055-599ab7822230"
+    documentation="Flag the obsolete parts in SAP&#xD;&#xA;---&#xD;&#xA;Get from SAP the status of stocks and other inventory information"/>

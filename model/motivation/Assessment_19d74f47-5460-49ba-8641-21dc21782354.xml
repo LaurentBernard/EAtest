@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The DMU is not exhaustive"
+    id="19d74f47-5460-49ba-8641-21dc21782354"
+    documentation="Lack of digitalization of the data. Even, for new programs like the H160, some information is missing in the DMU to consider it “Full Digital”. &#xD;&#xA;---&#xD;&#xA;Potential problem of the single source of truth.&#xD;&#xA;The DMU should maybe be &quot;delivered&quot; to ES."/>

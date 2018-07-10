@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create the technical manuals"
+    id="dd1efa57-1054-440a-848d-7bdc333e5ccd"
+    documentation="The technical documentation is updated twice a year, by batch. Once produced, the technical&#xD;&#xA;documentation is published via Orion and customers access the documentation using the KeyCopters portal.&#xD;&#xA;Two different level or type of update:&#xD;&#xA;- Safety: deliver via a SB and then integrated into the documentation&#xD;&#xA;- ILS update&#xD;&#xA;The production of the documentation is sub-contracted based on a catalogue of service :&#xD;&#xA;- ~1500 € to update an IPC figure&#xD;&#xA;- ~3000 € to create an IPC figure&#xD;&#xA;"/>

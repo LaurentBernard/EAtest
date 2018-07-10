@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ecpdm) Import CATproduct for standards"
+    id="79015a5f-bb96-456f-a772-a5ad41d0348c"
+    documentation="Designer is able to create an assembly model (CATProduct) to give correct position to each geometrical standard used in BOM"/>

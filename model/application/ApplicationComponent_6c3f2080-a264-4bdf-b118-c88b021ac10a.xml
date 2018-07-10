@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSB Viewer"
+    id="6c3f2080-a264-4bdf-b118-c88b021ac10a"
+    documentation="CSBViewer is a 2D/3D viewers and is used to view 3D simple parts and 2D drawings.&#xD;&#xA;In addition, CSB viewer has a dynamic link with ECPDM which allows you to see where a&#xD;&#xA;part/assembly is located in the ECPDM tree when it is selected in CSB viewer and vice versa."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCDM IPC"
+    id="c75ca288-39d4-4c50-8108-e708a8023c42"
+    documentation="Material support&#xD;&#xA;Configuration management for IPC&#xD;&#xA;Manufacturer parts&#xD;&#xA;The target is to maintain a list of parts and the references to buy them&#xD;&#xA;SCDM generates data files and PDF&#xD;&#xA;For military and civil H/C&#xD;&#xA;It is interfaces with the ILS tools and NIDB&#xD;&#xA;Developed in Windchill 9&#xD;&#xA;---&#xD;&#xA;Performance issues&#xD;&#xA;-the cluster mode was implemented due to performance problems&#xD;&#xA;-before that, the system had to be rebooted everyday&#xD;&#xA;---&#xD;&#xA;The application is a cluster of application servers, accessing an Oracle DB of more than 500 Gb&#xD;&#xA;---&#xD;&#xA;The initial development was done by PTC and had some troubles&#xD;&#xA;---&#xD;&#xA;(&quot;SCDM has 2 parts : One on the spare parts + one on the 3D that could gain to go into 3DX&quot;)&#xD;&#xA;---&#xD;&#xA;Used for H175.&#xD;&#xA;Considered as OK for H160 digital continuity&#xD;&#xA;"/>

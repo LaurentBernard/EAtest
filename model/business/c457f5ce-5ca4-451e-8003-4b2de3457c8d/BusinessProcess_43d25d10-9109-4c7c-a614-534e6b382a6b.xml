@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L1)(h175) ILS process"
+    id="43d25d10-9109-4c7c-a614-534e6b382a6b"
+    documentation="H175 differs from H160 because this program is now in serie phase. In terms of figures, for instance,&#xD;&#xA;for the H175 program:&#xD;&#xA;- 2000 ECP the 1st year (Engineering Change Proposal) ;&#xD;&#xA;- 1200 the 2nd year.&#xD;&#xA;&#xD;&#xA;Before definition freeze, there is few traceability at Design Office level. LSA starts at CDR of the system,&#xD;&#xA;but these milestones are not always passed with all criteria fulfilled. Some milestones are passed&#xD;&#xA;without the corresponding maturity level (e.g.: reliability data, data from supply chain). As&#xD;&#xA;consequences:&#xD;&#xA;- To search for data is time consuming ;&#xD;&#xA;- Lot of cycles to complete the LSA data (with payment to the supply chain). Since data are not&#xD;&#xA;up-to-date and that the activity is subcontracted, this induces additional costs. The overall&#xD;&#xA;costs is quantifiable.&#xD;&#xA;"/>

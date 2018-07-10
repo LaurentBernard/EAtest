@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CorePDM"
+    id="7938ba87-27ab-486f-a40e-121eb21d8985"
+    documentation="Based on PTC Windchill. Uses Windchill not for the management of the lifecycle but to manage the PDM part (BOM, ECPs, etc.)&#xD;&#xA;---&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As maintained configuration"
+    id="0f0cc1f9-7fc0-4b24-b317-0c66cdb97898"
+    documentation="This business object is the root of all business objects of the same kind. It enables to make bridges between the various kinds of the same configuration (existing, referential, DS)."/>

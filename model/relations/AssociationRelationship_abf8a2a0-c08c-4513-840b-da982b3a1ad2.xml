@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="transformation / enrichment"
+    id="abf8a2a0-c08c-4513-840b-da982b3a1ad2">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_37413dd2-0dba-4f78-ae7f-a1ffd11882de.xml#37413dd2-0dba-4f78-ae7f-a1ffd11882de"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_fbd7ae70-ac4d-408b-b5b7-c686e5e9c942.xml#fbd7ae70-ac4d-408b-b5b7-c686e5e9c942"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBC"
+    id="a919be9d-e019-47de-ad72-6676cf6b2d4e">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_beda1e2b-3d05-47e6-a429-1e9fff3ad237.xml#beda1e2b-3d05-47e6-a429-1e9fff3ad237"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_71de5551-8281-4187-854d-54a364e6f509.xml#71de5551-8281-4187-854d-54a364e6f509"/>
+</archimate:TriggeringRelationship>

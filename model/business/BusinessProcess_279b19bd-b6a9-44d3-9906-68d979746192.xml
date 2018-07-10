@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(h175) Grid building"
+    id="279b19bd-b6a9-44d3-9906-68d979746192"
+    documentation="Currently there is no available configuration for each industrial batch&#xD;&#xA;Bible + table d'incompatibilité + FDR mise en grille des ECP&#xD;&#xA;Grilles EB =&#xD;&#xA;-Base => toutes missions&#xD;&#xA;-Invariable : 1 par mission&#xD;&#xA;-Variable : 1 par mission&#xD;&#xA;---&#xD;&#xA;Suite à la diffusion de la fiche client, la grille spécifique à un appareil est créée à partir des grilles expression de besoin&#xD;&#xA;"/>

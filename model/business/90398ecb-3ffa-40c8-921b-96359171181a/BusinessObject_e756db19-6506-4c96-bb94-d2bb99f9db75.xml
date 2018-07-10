@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ref) Product standard eBOM (gBOM)"
+    id="e756db19-6506-4c96-bb94-d2bb99f9db75"
+    documentation="This standard eBOM is representing the product and all its acceptable variants.&#xD;&#xA;Some software providers like DS are naming this &quot;standard eBOM&quot; &quot;gBOM&quot; for &quot;general BOM&quot;."/>

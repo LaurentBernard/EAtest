@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ET part creation should reference the ERP part number"
+    id="6cd123b4-c365-4782-a05f-329e5889ebe9"
+    documentation="When the design office creates a new part number, it doesn’t care about the ERP designation. In Germany, the Tech Pub gets the reference of their data directly from the ERP."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autoview"
+    id="f9127218-479a-437c-a7d3-59a81d3acad9"
+    documentation="Autoview is a 2D/3D viewer and is used to view 3D simple parts and 2D drawings.&#xD;&#xA;Autoview makes it possible to include measurements on plans or 3D models.&#xD;&#xA;"/>

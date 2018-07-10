@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(h160) Maintainability analysis"
+    id="14c930ae-06fa-4814-92cd-a35f20a2f94c"
+    documentation="Maintainability Analysis (O/I (operational/intermadiate and IPC). Once the analysis is run, all LSA data are stored back into the CorePDM."/>

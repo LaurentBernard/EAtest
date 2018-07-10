@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(question) Does EASA support 3D certification?"
+    id="c2cafebe-b1e1-4f9c-acae-eb8a7fecac7a"
+    documentation="It seems that they do.&#xD;&#xA;The problem is also that the tool and the certified content must live the whole life of the A/C + years after.&#xD;&#xA;Dassault Aviation explain in a presentation that they certified the 3D of the Falcon 7X in a perspective of migrating every 10 years the tool and digital 3D drawings and managing the deltas."/>

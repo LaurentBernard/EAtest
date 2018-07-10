@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) CO4. Manage Workflows &amp; Maturities"
+    id="e5f905fb-6f11-4a03-93b0-de920a4ae87c"
+    documentation="- Capacity to create workflows, signatures, responsabilities.&#xD;&#xA;- Capacity to manage / Display the maturity of an object (Process, Operation, Work order, …)"/>

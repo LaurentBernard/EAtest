@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadenas"
+    id="f874d432-ad4a-49c9-9525-632d6c2485c8"
+    documentation="3D Standard library&#xD;&#xA;The management of standard components can be real problem for the design department. Cadenas is the standard components library which optimizes management of the components used in the CAD models. The use of standard components significantly saves time and reduces errors."/>

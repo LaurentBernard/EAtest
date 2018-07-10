@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) CI1. Manage entities / components"
+    id="1bd10a81-11fd-450f-8cfd-dfe515a803a1"
+    documentation="- Manage all domains components and technical artifacts (engineering, manufacturing, Customer services, marketing and sales, etc..)&#xD;&#xA;- Manage system decomposition &#xD;&#xA;- Manage definition &amp; specification  (in configuration)&#xD;&#xA;- Manage Libraries (Equipment, Standard, Tooling)&#xD;&#xA;- Manage reused components"/>

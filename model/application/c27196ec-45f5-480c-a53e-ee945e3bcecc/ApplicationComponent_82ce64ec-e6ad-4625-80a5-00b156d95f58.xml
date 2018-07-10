@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPM-ECD"
+    id="82ce64ec-e6ad-4625-80a5-00b156d95f58"
+    documentation="There is one instance for German programs&#xD;&#xA;Used for h135 and h145, tooling and maintenance of the CH53&#xD;&#xA;Based on VPM 1.6&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

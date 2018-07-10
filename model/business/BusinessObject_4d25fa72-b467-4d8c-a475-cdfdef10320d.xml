@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(h175) Ecarts"
+    id="4d25fa72-b467-4d8c-a475-cdfdef10320d"
+    documentation="Différents Statuts d’écarts:&#xD;&#xA;-EN CONF PAS EN GRILLE&#xD;&#xA;-EN GRILLE PAS EN CONF&#xD;&#xA;-INDICES DIFFERENTS =>delta entre l’indice présent en conf et celui en grille&#xD;&#xA;-OP SANS VCI =>Opération de déplacement machine, Opération QN,&#xD;&#xA;-CARDINALITE =>utilisation d’un VCI dans plusieurs opérations"/>

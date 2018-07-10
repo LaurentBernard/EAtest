@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catia V5"
+    id="1a9bf7eb-4b04-4bd3-9bfd-fb58d1d8576b"
+    documentation="CATIA is the design software used exclusively at AH to create CAD models (3D simple part and&#xD;&#xA;assembly, 2D drawings).&#xD;&#xA;Based on R21&#xD;&#xA;Obsolete and out of support since Dec 2018"/>

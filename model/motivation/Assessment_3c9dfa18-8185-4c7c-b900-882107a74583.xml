@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enrichment cycle of tech pub flow to question"
+    id="3c9dfa18-8185-4c7c-b900-882107a74583"
+    documentation="All new variants are integrated in the trunk of the tech data. Maybe alternate solutions could be envisaged such as flagging published versions and updating them if and only if they are concerned.&#xD;&#xA;The fact of enriching the same trunk increases manual prodution time and increases the eroor probablity during manual composition.&#xD;&#xA;This is particularly tru for military A/C where the requirement is to publish the revision marks of the new version of the manual compared to the old version of the same manual for the same A/C.&#xD;&#xA;This could open the question of storing the as-delivered configuration in a real sBOM. In a way, there is no will to store each individual eBOM per A/C instance but, as long as manuals can be instance of A/C based, the exact as-to-be-maintained configuration could a be a core element of the Tech Pub world."/>

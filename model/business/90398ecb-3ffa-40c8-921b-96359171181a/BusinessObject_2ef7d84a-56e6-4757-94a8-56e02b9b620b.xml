@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ref) Customer eBOM (ATBB)"
+    id="2ef7d84a-56e6-4757-94a8-56e02b9b620b"
+    documentation="The customer eBOM, in the case of H/C, will be generally specific to an instance of H/C, but in some cases, if the customer is requiring a fleet of identical H/C, this customer eBOM can be a template for several A/C.&#xD;&#xA;---&#xD;&#xA;This customer eBOM will be used as a master for the mBOM and the sBOM."/>

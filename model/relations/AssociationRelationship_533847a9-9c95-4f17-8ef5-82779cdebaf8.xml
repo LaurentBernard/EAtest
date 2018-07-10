@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(tbc)"
+    id="533847a9-9c95-4f17-8ef5-82779cdebaf8"
+    documentation="To be clarified">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_79384acb-057c-4282-a967-531176fc4ecb.xml#79384acb-057c-4282-a967-531176fc4ecb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_2e3d7cf1-0bec-4390-a31c-86d604fba64b.xml#2e3d7cf1-0bec-4390-a31c-86d604fba64b"/>
+</archimate:AssociationRelationship>

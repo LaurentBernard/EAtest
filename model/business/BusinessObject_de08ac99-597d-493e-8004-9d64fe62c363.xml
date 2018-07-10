@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mission"
+    id="de08ac99-597d-493e-8004-9d64fe62c363"
+    documentation="For a certain missions, several offer can correspond, e.g. 1 big H/C or several small ones.&#xA;AW is particularly good to sell several H/C for a particular mission."/>

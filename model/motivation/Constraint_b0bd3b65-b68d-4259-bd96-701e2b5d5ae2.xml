@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Old engineering data cannot be easily migrated to a new system because migration would imply a new certification of all drawings"
+    id="b0bd3b65-b68d-4259-bd96-701e2b5d5ae2"/>

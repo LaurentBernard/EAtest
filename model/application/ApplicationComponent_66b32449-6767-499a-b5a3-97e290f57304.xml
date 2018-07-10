@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nastran"
+    id="66b32449-6767-499a-b5a3-97e290f57304"
+    documentation="Simulation tool&#xD;&#xA;Used in ET"/>

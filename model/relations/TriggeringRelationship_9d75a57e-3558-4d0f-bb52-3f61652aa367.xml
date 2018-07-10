@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3D data"
+    id="9d75a57e-3558-4d0f-bb52-3f61652aa367">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac2112a4-b9d4-4328-a641-f6523c9b5de5.xml#ac2112a4-b9d4-4328-a641-f6523c9b5de5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e67eb66f-c3a6-4d12-8858-97f9a05c415d.xml#e67eb66f-c3a6-4d12-8858-97f9a05c415d"/>
+</archimate:TriggeringRelationship>

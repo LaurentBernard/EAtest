@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) PM1. Manage Process &amp; Product performance"
+    id="27471305-b5fb-46ce-aa75-022077bf86f5"
+    documentation="-Cost (WIP), Quality, (On time Quality) Time (on time delivery,  Lead Time...)&#xD;&#xA;-  shop floor product flow (workload, load balancing)&#xD;&#xA;- Simulate the preparation processes (Assemble, machining, Quality)&#xD;&#xA;- Analyze the global development consumption (carbon emission, energy, raw materials, …)"/>

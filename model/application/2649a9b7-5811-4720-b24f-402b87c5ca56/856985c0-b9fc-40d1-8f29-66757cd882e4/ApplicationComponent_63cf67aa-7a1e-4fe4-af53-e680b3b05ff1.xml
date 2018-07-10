@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP ERP ECC6"
+    id="63cf67aa-7a1e-4fe4-af53-e680b3b05ff1"
+    documentation="SAP ERP (MM, PP, PS, QM, CO, CS, WM, PM, Client),&#xD;&#xA;Manufacturing, Warehousing, Scheduling,.&#xD;&#xA;Currently in version 6&#xD;&#xA;Also called ECC6&#xD;&#xA;"/>

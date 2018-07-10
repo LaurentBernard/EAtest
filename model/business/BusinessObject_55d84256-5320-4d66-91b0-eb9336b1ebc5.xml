@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As-prepared configuration"
+    id="55d84256-5320-4d66-91b0-eb9336b1ebc5"
+    documentation="This business object is the root of all business objects of the same kind. It enables to make bridges between the various kinds of the same configuration (existing, referential, DS)."/>

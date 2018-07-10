@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2) Create ILS BOM from eBOM"
+    id="716ebba7-a236-4ed9-bad5-e3656000d34e"
+    documentation="Data preparation in MOA Environment is done by copying data from DOA Environment (this&#xD;&#xA;copy/paste is run in the same tool: CorePDM). This duplication of data between DOA and MOA environment may also consists in splitting reference: one P/N from DOA is split into several P/N in MOA (LSA BOM). All the split is done in CorePDM. Maintenance Operations are then linked to the right LSA P/N into CorePDM."/>

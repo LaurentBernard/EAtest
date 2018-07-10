@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADS FFE"
+    id="ddf6368d-7459-433a-a604-66cd729eb408"
+    documentation="Software to manage the A/C doors.&#xD;&#xA;Based on Windchill 10 but very customized.&#xD;&#xA;Germany."/>

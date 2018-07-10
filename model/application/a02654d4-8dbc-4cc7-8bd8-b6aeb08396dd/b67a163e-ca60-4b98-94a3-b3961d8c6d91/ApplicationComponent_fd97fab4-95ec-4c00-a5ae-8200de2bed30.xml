@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ds) 3DCom Portal"
+    id="fd97fab4-95ec-4c00-a5ae-8200de2bed30"
+    documentation="Portal that enable the communication between Catia and VPM&#xD;&#xA;Based on obsolete technologies:&#xD;&#xA;-ActiveX&#xD;&#xA;-Java plugin&#xD;&#xA;-Orbix&#xD;&#xA;"/>

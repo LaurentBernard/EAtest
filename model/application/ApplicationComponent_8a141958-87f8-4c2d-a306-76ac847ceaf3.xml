@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP CS Customer Service Module (SM)"
+    id="8a141958-87f8-4c2d-a306-76ac847ceaf3"
+    documentation="Previously called SAP SM. Renamed by SAP in version 4.6.&#xD;&#xA;Core logistics module.&#xD;&#xA;Manages hire and maintenance of customer equipments. Linked with PM (plant management) and &#x9;SD (sales and distribution).&#xD;&#xA;---&#xD;&#xA;Links with other modules:&#xD;&#xA;-PM Structuring Technical Systems for information on structuring and managing technical objects&#xD;&#xA;-FI-AA Asset Accounting - User Guide for information on managing serviceable items as tangible assets&#xD;&#xA;-MM - Services Management for information on service records&#xD;&#xA;-PM - Maintenance Notifications for information on maintenance notification functionality&#xD;&#xA;-PM - Maintenance Orders for information on maintenance order functionality&#xD;&#xA;-SD - Sales, Sales Order Processing for information on managing and billing sales orders and service contracts.&#xD;&#xA;-PS - Project System for information on using projects&#xD;&#xA;"/>

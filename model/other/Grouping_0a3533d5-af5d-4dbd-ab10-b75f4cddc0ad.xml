@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain: (h175) ET"
+    id="0a3533d5-af5d-4dbd-ab10-b75f4cddc0ad"
+    documentation="Standards&#x9;SAP&#x9;ECPDM&#x9;SQL&#x9;Daily&#x9;STD parts (metadata) are created into NH90 Production Database, and accessed in R/O from any other ECPDM application."/>

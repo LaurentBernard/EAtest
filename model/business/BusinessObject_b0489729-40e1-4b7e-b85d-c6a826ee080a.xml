@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As-built configuration"
+    id="b0489729-40e1-4b7e-b85d-c6a826ee080a"
+    documentation="This business object is the root of all business objects of the same kind. It enables to make bridges between the various kinds of the same configuration (existing, referential, DS)."/>

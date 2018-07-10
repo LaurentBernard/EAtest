@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(tbd)"
+    id="2b447782-5326-438b-9133-626c701dc653">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2b44e84c-a973-4b5c-bb0c-7b0db3dba928.xml#2b44e84c-a973-4b5c-bb0c-7b0db3dba928"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac2112a4-b9d4-4328-a641-f6523c9b5de5.xml#ac2112a4-b9d4-4328-a641-f6523c9b5de5"/>
+</archimate:AssociationRelationship>

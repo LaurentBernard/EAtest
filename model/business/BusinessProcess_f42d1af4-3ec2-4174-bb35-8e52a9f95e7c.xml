@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) MSc1. Organize the production"
+    id="f42d1af4-3ec2-4174-bb35-8e52a9f95e7c"
+    documentation="- Capabilities to organize (sequence) the production based on Product &amp; Shop floor constraints (Sites, transfer, Skills, Operations dependencies, …)&#xD;&#xA;- Perform Finite capacity planning"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(h160) Collect data to prepare activity"
+    id="4fcf5e60-1941-4093-90e2-d80097741b84"
+    documentation="Problem: not all data are digitalized. Consequently, one of the difficulties is to compile,&#xD;&#xA;prepare &amp; collect all information required to prepare the activities.&#xD;&#xA;Problem: not all data are in the PLM. Different sources of information: PLM &amp; Doc&#xD;&#xA;Management for the specification.&#xD;&#xA;The configuration is directly provided by the SDR (System Design Responsible).&#xD;&#xA;"/>

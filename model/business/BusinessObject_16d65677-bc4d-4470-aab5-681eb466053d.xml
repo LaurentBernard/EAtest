@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pricing rules"
+    id="16d65677-bc4d-4470-aab5-681eb466053d"
+    documentation="The pricing rules are complex. They must include the price of the STCs.&#xA;Discounts are possible."/>

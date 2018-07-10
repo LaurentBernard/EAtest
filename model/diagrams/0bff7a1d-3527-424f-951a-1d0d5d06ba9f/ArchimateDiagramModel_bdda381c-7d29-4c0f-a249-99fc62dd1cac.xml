@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="w03. Draft - Projet Laeticia"
+    id="bdda381c-7d29-4c0f-a249-99fc62dd1cac">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ef166cd7-4966-450c-a7bf-d052bc0aed90">
+    <bounds
+        x="330"
+        y="200"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_b099c3f1-4c88-4e8d-b991-0d61efc63aea.xml#b099c3f1-4c88-4e8d-b991-0d61efc63aea"/>
+  </children>
+</archimate:ArchimateDiagramModel>

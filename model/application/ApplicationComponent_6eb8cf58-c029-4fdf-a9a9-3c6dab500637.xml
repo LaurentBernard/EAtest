@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(h175) Nectar V5"
+    id="6eb8cf58-c029-4fdf-a9a9-3c6dab500637"
+    documentation="For the certification documents and certification process&#xD;&#xA;This application was written in Java. A migration to a Windchill environment was tried but abandonned.&#xD;&#xA;This project was done with Airbus Commercial but the requirements were not the same.&#xD;&#xA;---&#xD;&#xA;Qualification/certification&#xD;&#xA;---&#xD;&#xA;Data managed : CRD&#xD;&#xA;"/>

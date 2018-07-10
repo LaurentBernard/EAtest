@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchonize IPC with maintenance manuals"
+    id="80576ece-6811-4150-a24e-c4b86eee4c95"
+    documentation="The MSM (Master Servicing Manual) details when scheduled maintenance have to be performed The AMM (Aircraft Maintenance Manual) details how to perform the operation,but doesn’t precise the part numbers of the impacted parts, except for the spare parts.&#xD;&#xA; &#xD;&#xA;Those manuals are tightly linked, but inconsistency occurred frequently: &#xD;&#xA;•&#x9;Inconsistencies  IPC / RIC : 20%&#xD;&#xA;•&#x9;Inconsistencies  MSM / RIC : 40%&#xD;&#xA;"/>

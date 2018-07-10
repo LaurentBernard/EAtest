@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSA"
+    id="e0e945cb-43f4-49cc-8f73-b918133ca0c6"
+    documentation="Context: LSA H160 program&#xD;&#xA;LSA aims at describing the supportability concept for the ILS in the downstream process:&#xD;&#xA;- Operational / Intermediate Maintenance Level (OLM/ILM) Operations for final customers on&#xD;&#xA;how to operate the H/C;&#xD;&#xA;- Identify all the parts from Design office that can be procurable to the customers (procurable&#xD;&#xA;/ spare parts).&#xD;&#xA;These data are deliverables respectively for ILS that aims at delivering the Maintenance Tech Data (MTD) and for Part Tech Data (PTD) to produce IPC."/>

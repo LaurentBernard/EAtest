@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(h160) Transforms eBOM into ILS BOM in PLM"
+    id="09ce7b92-adf0-449f-ac81-6e7c4bd176c1"
+    documentation="The ILS BOM is derived by copy paste.&#xD;&#xA;After each update of the eBOM, the ILS BOM is fully “recreated” to reflect these changes.&#xD;&#xA;Problem: completion of engineering data to start ILS.&#xD;&#xA;"/>

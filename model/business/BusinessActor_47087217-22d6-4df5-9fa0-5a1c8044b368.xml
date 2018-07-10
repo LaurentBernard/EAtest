@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer"
+    id="47087217-22d6-4df5-9fa0-5a1c8044b368"
+    documentation="The customer is more and more expert in H/C. When he purchases a machine costing 10M$, he wants to be sure to be able to perform his missions in the mission conditions.&#xA;The customer used to spend 25% of the buying process time alone and 75% with the vendor. Now, he spends 75% of the time alone and only 25% with the vendor.&#xA;Organized in missions"/>

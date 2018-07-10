@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ecpdm) Export CI chaining"
+    id="8ddd120a-75f9-4a8b-9a24-4107fa891160"
+    documentation="Every night, CI Chaining is calculated from the entire list of ECP and VCI, and the delta from previous night is sent (to ILS 175)"/>

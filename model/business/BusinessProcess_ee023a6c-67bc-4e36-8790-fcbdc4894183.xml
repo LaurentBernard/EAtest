@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) SR1. Manage Data collection and acquisition"
+    id="ee023a6c-67bc-4e36-8790-fcbdc4894183"
+    documentation="- Allow the input of all information during production, (Operation, Shifting Event, …)&#xD;&#xA;- Allow the input of information coming from connected devices (IoT)&#xD;&#xA;- Track resources associated with producing the production unit (production tools, machines, breakdowns, material shortage, etc.).&#xD;&#xA;- Wharehousing"/>

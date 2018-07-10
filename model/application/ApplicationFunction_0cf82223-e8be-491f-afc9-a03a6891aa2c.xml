@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IFIND"
+    id="0cf82223-e8be-491f-afc9-a03a6891aa2c"
+    documentation="Interface for industrialization&#xD;&#xA;---&#xD;&#xA;H175 interface between ECPDM and SAP&#xD;&#xA;-Responds with SAPSYNC in the case of prerelase process&#xD;&#xA;-Responds with SAP_MATNR in the case of release process&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare tech data"
+    id="15e6666e-cf71-4fc9-97f4-36121df742c7"
+    documentation="Just a part of the H/C data, the part that is visible by the customer.&#xD;&#xA;This will be based on&#xD;&#xA;* all the existing 3D design office data (Airbus or suppliers) which will be downsized for S&amp;M or S&amp;S usage (for tablet usage and for security reasons). We need on this topic the full integration between 3DExperience and 3DExcite&#xD;&#xA;* scan of parts&#xD;&#xA;* redesign in 3D  from 2D for strategic parts&#xD;&#xA;* etc…"/>

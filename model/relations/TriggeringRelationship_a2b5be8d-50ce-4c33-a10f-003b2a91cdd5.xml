@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="industrial flow"
+    id="a2b5be8d-50ce-4c33-a10f-003b2a91cdd5">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_beda1e2b-3d05-47e6-a429-1e9fff3ad237.xml#beda1e2b-3d05-47e6-a429-1e9fff3ad237"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7e4ec0fb-dcf7-4828-93da-b5434392a83d.xml#7e4ec0fb-dcf7-4828-93da-b5434392a83d"/>
+</archimate:TriggeringRelationship>

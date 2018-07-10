@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(h175) Puzzle"
+    id="205f3f11-dccc-488b-aab5-db7ce670fbef"
+    documentation="ECR management&#xD;&#xA;Should migrate to CorePDM&#xD;&#xA;Access database that manages the project associated to each ECR&#xD;&#xA;Change database&#xD;&#xA;---&#xD;&#xA;Data manipulated:&#xD;&#xA;-Effectivity (RBD/RAD/Serie)&#xD;&#xA;-CB agenda &amp; MoM, Planning,&#xD;&#xA;-Change board MoM (Actions &amp; decisions)&#xD;&#xA;-ECR &amp; ECP information&#xD;&#xA;-Links between ECPs (joined/prior/incompatible)&#xD;&#xA;-SB link&#xD;&#xA;-Version (B/B1/Z15)&#xD;&#xA;-KPIs&#xD;&#xA;---&#xD;&#xA;E2E"/>

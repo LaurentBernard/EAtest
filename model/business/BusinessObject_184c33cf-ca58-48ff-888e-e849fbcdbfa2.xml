@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As-sold configuration"
+    id="184c33cf-ca58-48ff-888e-e849fbcdbfa2"
+    documentation="This business object is the root of all business objects of the same kind. It enables to make bridges between the various kinds of the same configuration (existing, referential, DS)."/>

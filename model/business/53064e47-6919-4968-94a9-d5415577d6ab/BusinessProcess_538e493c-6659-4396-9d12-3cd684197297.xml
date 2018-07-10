@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(h160) Prepare ILS data in 3D environment"
+    id="538e493c-6659-4396-9d12-3cd684197297"
+    documentation="Problem: configuration filtering for the DMU inducing some issues such as bad positioning,&#xD;&#xA;missing items or duplicates. This requires consequently a review to ensure data quality.&#xD;&#xA;The 3D data are prepared in a dedicated tool 3D ILS Prepa.&#xD;&#xA;Problem: time to generate the 3D context due to tool complexity. As example, the solution&#xD;&#xA;like 3DPlayer is fine enough for the activity (ILS users are not 3D tool familiar, so there is a&#xD;&#xA;need to have an “easy to use” solution).&#xD;&#xA;In terms of metrics (without considering batch process supported by Spotfire): 15mn&#xD;&#xA;minimum for each Engineering Change.&#xD;&#xA;Activity it then run in 3DPlayer&#xD;&#xA;In terms of metrics, the preparation represents approx. 20 % to 30% of the time, including consistency check."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scade"
+    id="09e600a4-14b9-48d8-b7c4-7a91559a1ac2"
+    documentation="SCADE Architect is a product line of the ANSYS® Embedded software family of products and solutions that empowers users with a systems design environment for use on systems with high dependability requirements, providing full support of industrial systems engineering processes, such as ARP 4754A, ISO 26262, and EN 50126.&#xD;&#xA;This product features functional and architectural system modeling and verification in a SysML-based environment. SCADE Architectprovides a strong foundation to deploy Model-Based Systems Engineering (MBSE) processes and best practices. A key feature is the capability to generate consistent and comprehensive Interface Control Documents (ICD) as an important outcome of the MBSE processes."/>

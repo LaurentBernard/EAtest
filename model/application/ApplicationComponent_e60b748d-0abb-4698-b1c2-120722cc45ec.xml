@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prodshare"
+    id="e60b748d-0abb-4698-b1c2-120722cc45ec"
+    documentation="Macro to get ECPDM 3D data to include 3D schemas in SOI.&#xD;&#xA;---&#xD;&#xA;This macro may represent a potential breach of security (TBC)."/>

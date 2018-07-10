@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L2)(oar) MSc2. Optimize the production"
+    id="fff91ae3-a74c-49f4-ad88-fd877bb0b130"
+    documentation="- Configure &quot;What if&quot; scenario (Shifting event, production rate increase, ...)&#xD;&#xA;- Optimize the planning of preventive maintenance operations to reduce the impact on manufacturing&#xD;&#xA;- Manage design evolution impacts (3F) to keep same performances .&#xD;&#xA;- Capactity to test other configurations even if another configuration is release for production&#xD;&#xA;- Capacities to optimize the production based on Company Golden rules (Times, Takt, standards layouts , …)&#xD;&#xA;- Manage Sales &amp; Operation planning to keep consistency between strategic planning and detailed planning"/>

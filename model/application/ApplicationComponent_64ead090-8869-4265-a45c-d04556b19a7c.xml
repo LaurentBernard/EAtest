@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NIDB"
+    id="64ead090-8869-4265-a45c-d04556b19a7c"
+    documentation="Illustration Management&#xD;&#xA;Developed in Windchill 10 (even if this does not appear to be very relevant) in the context of the Phenix project&#xD;&#xA;Interfaced with SCDM&#xD;&#xA;"/>

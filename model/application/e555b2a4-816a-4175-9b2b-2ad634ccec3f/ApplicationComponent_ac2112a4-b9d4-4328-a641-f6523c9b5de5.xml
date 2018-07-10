@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPM-ECG"
+    id="ac2112a4-b9d4-4328-a641-f6523c9b5de5"
+    documentation="CAD vaulting&#xD;&#xA;---&#xD;&#xA;Based on VPM 1.6 - that is compatible with the R21 series of other products&#xD;&#xA;1 instance Oracle&#xD;&#xA;Used for:&#xD;&#xA;-h160&#xD;&#xA;-Tigre&#xD;&#xA;-etc."/>

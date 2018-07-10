@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DMU data cleaning and filtering"
+    id="7d7482ac-c938-4fb1-966c-96352470ce45"
+    documentation="Problem: configuration filtering for the DMU inducing some issues such as bad positioning,&#xD;&#xA;missing items or duplicates. This requires consequently a review to ensure data quality."/>

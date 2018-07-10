@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="g04. Manufacturing IM landscape"
+    id="0ac7247a-cfbb-444d-9396-a44c794cf6cb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2bd7a883-f8e5-4c11-a60f-be7e65fb7706">
+    <bounds
+        x="205"
+        y="141"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_881ae647-94b3-482a-ac86-7101ca91e118.xml#881ae647-94b3-482a-ac86-7101ca91e118"/>
+  </children>
+</archimate:ArchimateDiagramModel>

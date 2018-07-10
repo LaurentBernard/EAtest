@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(access) Puzzle"
+    id="b8731bb6-d849-428d-8e5f-b7b109dc1560"
+    documentation="Should migrate to CorePDM&#xD;&#xA;Access database that manages the project associated to each ECR&#xD;&#xA;Change database&#xD;&#xA;"/>

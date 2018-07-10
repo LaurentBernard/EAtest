@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engineering documents"
+    id="270f8593-91f9-4b36-99d9-2b975ddbc198"
+    documentation="Documents (pdf, word): technical notes, descriptive documents, FMECA and all&#xD;&#xA;maintainability studies (note that the design office performs the maintainability study –&#xD;&#xA;Reliability Availability Maintainability &amp; Testability)"/>

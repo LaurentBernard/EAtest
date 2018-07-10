@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L1)(h160) To-be ISLS process"
+    id="957179ca-5b76-4f1a-8d71-2e6cdd8d2c11"
+    documentation="An expectation for the “To Be Process”:&#xD;&#xA;- Use the viewer to create/perform activities only into the viewer (select the part from 3D then&#xD;&#xA;directly create the operation from the 3D environement);&#xD;&#xA;- Integrate the results directly into the CorePDM.&#xD;&#xA;A DMU centric approach is preferred regarding the current process. The goal is to create the LSA&#xD;&#xA;objects from the 3D in which the LSA can enrich the information to add operations directly linked to&#xD;&#xA;the 3D item.&#xD;&#xA;Yet, some data are missing in the 3D: nota, ingredient, torque, etc. At least, this information shall be&#xD;&#xA;accessed by the 3D. Lot of information is in the technical note, or any other technical document (e.g.:&#xD;&#xA;torque value, ingredient)."/>

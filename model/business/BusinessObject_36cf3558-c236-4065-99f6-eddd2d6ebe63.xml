@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As-to-be-built (ATBB) configuration"
+    id="36cf3558-c236-4065-99f6-eddd2d6ebe63"
+    documentation="This business object is the root of all business objects of the same kind. It enables to make bridges between the various kinds of the same configuration (existing, referential, DS)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(ds) Enovia VPM V4"
+    id="542db7d9-3eea-42db-949c-cd6eff869365"
+    documentation="Vault for CAD.&#xD;&#xA;Takes in charge the versioning of the CAD models&#xD;&#xA;&#xD;&#xA;"/>

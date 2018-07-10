@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(L1)(proc) Part obsolescence"
+    id="970e4231-93ae-4760-8d3d-3ff5245e9972"
+    documentation="This process is seen in a procurement perspective.&#xD;&#xA;---&#xD;&#xA;It should be connected to the ECR/ECP process on one side and to the tech data change process.&#xD;&#xA;---&#xD;&#xA;LBO: Last buy order (TBC)&#xD;&#xA;---&#xD;&#xA;30 changes arrive per month and touch all programs. Most of them are touching several programs.&#xD;&#xA;All programs are touched, even the H175 and the H160.&#xD;&#xA;---&#xD;&#xA;1250 open cases (May 2 2018)&#xD;&#xA;Around 70% will generate a LBO => part exchange&#xD;&#xA;Around 20% will generate a redesign&#xD;&#xA;---&#xD;&#xA;The system is diverging.&#xD;&#xA;---&#xD;&#xA;The global transversal process view must be built in ordr not to solve this process problem only at the procurement level.&#xD;&#xA;&#xD;&#xA;"/>
